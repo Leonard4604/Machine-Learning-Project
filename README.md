@@ -2,7 +2,7 @@
 
 #### About the project:
 
-This project is finalised to learn how a neural network works with a Q-Learning approach.
+This project is finalised to learn how a neural network works with a Q-Learning approach using Reinforcement Learning.
 It is best suited for the Cart Pole environment of OpenAI Gym, but can be adapted to whatever environment.
 
 ***
